@@ -1,5 +1,9 @@
 # main links links
 main:
+  - title: "CV"
+    #url: /cv/
+    url: /files/CV_Lily Y. Guo.pdf
+
   - title: "Publications"
     url: /publications/
 
@@ -9,14 +13,17 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Notes"
+    url: /notes/   
+
+#  - title: "Portfolio"
+#    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Me Outside Lab"
+    url: /for-fun/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/

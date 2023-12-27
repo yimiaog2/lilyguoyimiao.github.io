@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yimiao(Lily) Guo"
+title                    : "Lily's Homepage"
 title_separator          : "-"
-name                     : &name "Yimiao Lily Guo" 
+name                     : &name "Lily Y. Guo" 
 description              : &description "personal description"
 url                      : https://yimiaog2.github.io/lilyguoyimiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lily (Yimiao) Guo"
+  name             : "Lily Y. Guo"
   avatar           : "me.png"
-  bio              : "Experimental Condensed Matter Physics"
-  location         : "Illinois, US"
-  employer         :
+  bio              : "Fourth year undergraduate student researching in experimental condensed matter physics"
+  location         : "Urbana, Illinois, US"
+  employer         : "University of Illinois Urbana-Champaign"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "yimiaog2@illinois.edu"
@@ -103,18 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yimiao-guo-b92017259"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
