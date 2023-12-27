@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lily Y. Guo"
   avatar           : "me.png"
-  bio              : "Fourth year undergraduate student researching in experimental condensed matter physics"
-  location         : "Urbana, Illinois, US"
-  employer         : "University of Illinois Urbana-Champaign"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Experimental Condensed Matter Physics"
+  location         : "Urbana, Il, US"
+  employer         : "UIUC"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "yimiaog2@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
