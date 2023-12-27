@@ -19,4 +19,11 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Blog Po
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "Beyond Science"
+    url: /for-fun/
+    
+#  - title: "Guide"
+#    url: /markdown/
