@@ -4,7 +4,7 @@ main:
     #url: /cv/
     url: /files/CV_Lily Y. Guo.pdf
 
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
   - title: "Talks"
@@ -22,7 +22,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Me Outside Lab"
+  - title: "Beyond Science"
     url: /for-fun/
     
 #  - title: "Guide"

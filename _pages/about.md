@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at [department of physics](https://physics.illinois.edu) University of Illinois at Urbana-Champaign.
+I am a Fourth year undergraduate student at the University of Illinois at Urbana-Champaign (UIUC), majoring in Engineering [Physics](https://physics.illinois.edu), pursuing a dual degree in [Astronomy](https://astro.illinois.edu), minor in [Mathematics](https://math.illinois.edu). I am driven by a desire to expand human understanding of physical world and fundamental property of matter, and push the boundary of technology by science. My focus has therefore been on the electronic structure of 2D system with a particular interest in strongly correlated quantum states and topological materials.
 
 Aaaaa
 ======
