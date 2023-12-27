@@ -11,7 +11,7 @@ title                    : "Yimiao(Lily) Guo"
 title_separator          : "-"
 name                     : &name "Yimiao Lily Guo" 
 description              : &description "personal description"
-url                      : https://yimiaog2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yimiaog2.github.io/lilyguoyimiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yimiaog2/lilyguoyimiao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yimiaog"
+  github           : "yimiaog2"
   google_plus      :
   keybase          :
   instagram        :
