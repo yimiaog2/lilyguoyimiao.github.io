@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year undergraduate student at the University of Illinois Urbana-Champaign (UIUC), majoring in [Engineering Physics](https://physics.illinois.edu), pursuing a dual degree in [Astronomy](https://astro.illinois.edu), minor in [Mathematics](https://math.illinois.edu).
+Welcome to my homepage! I am a fourth year undergraduate student at the University of Illinois Urbana-Champaign (UIUC), majoring in [Engineering Physics](https://physics.illinois.edu), pursuing a dual degree in [Astronomy](https://astro.illinois.edu), minor in [Mathematics](https://math.illinois.edu). Scroll down or click on tabs above to learn more about me inside and outside Lab.
 
 Research Interest
 ======
-I am driven by a desire to expand human understanding of physical world and fundamental property of matter, and push the boundary of technology by science. My focus has therefore been on the electronic structure of 2D system with a particular interest in strongly correlated quantum states and topological materials. I am advised by Prof. Peter Abbamonte, Prof. Tai-Chang Chiang, and Prof. Pengjie Wang. 
+I am driven by a desire to expand human understanding of physical world and fundamental property of matter, and push the boundary of technology by science. My focus has therefore been on the experimental condensed matter physics with a particular interest in strongly correlated and topological quantum states of 2D system. I am advised by [Prof. Peter Abbamonte](https://physics.illinois.edu/people/directory/profile/abbamont), [Prof. Tai-Chang Chiang](https://physics.illinois.edu/people/directory/profile/tcchiang), and [Prof. Pengjie Wang](https://physics.illinois.edu/people/directory/profile/pengjiew). To learn more about my research, click on "Publication" and "Talks" tab above. 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -24,12 +24,12 @@ Bbbbbb
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].      github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Beyond Science
 ------
-Beside my passion in Science, I also love music and singing. I am the founder and singer of an indie-rock band based in Urbana. If you are interested in my band story, click on "Beyond Science" tab above.
+Beside my passion in science, I also love music, art and singing. I am the founder and singer of an local indie-rock band based in Urbana-Champaign area. I found and host several local live-house show in the area, with the third annual event holding this year and set to countinue in the future. If you are interested in my band story, click on "Beyond Science" tab above.
 
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
